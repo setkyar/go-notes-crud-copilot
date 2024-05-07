@@ -1,0 +1,1 @@
+# go-notes-crud-copilot
